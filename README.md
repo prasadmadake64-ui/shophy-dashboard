@@ -1,1 +1,1 @@
-# shophy-dashboard
+# shopify-dashboard
